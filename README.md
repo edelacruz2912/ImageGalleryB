@@ -1,7 +1,6 @@
 # ImageGallery
 
-
-It is an illustration of what I have learned about front-end. 
+A simple Image Gallery website.
 
 # Built With
     
